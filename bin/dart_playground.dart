@@ -1,3 +1,3 @@
-import 'package:dart_playground/dart_playground.dart';
+import 'package:dart_playground/switch.case.map.perfomance.dart';
 
-void main(List<String> arguments) => print(numberToWords(100324000021563));
+void main(List<String> arguments) => switchCaseMapPerfomanceTest();
